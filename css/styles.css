@@ -1,0 +1,33 @@
+body{
+  background-color: #F7ECDE;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 90%;
+  }
+
+h1 {
+  color: #E38B29;
+  font-family: Helvetica;
+}
+
+h3 {
+  color: #E38B29;
+  font-family: Helvetica;
+}
+
+.p1 {
+  font-family: Verdana;
+}
+
+.sub1 {
+  font-family: Verdana;
+}
+
+.sub2 {
+  font-family: Verdana;
+}
