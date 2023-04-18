@@ -10,14 +10,21 @@ hr {
   width: 90%;
   }
 
+img {
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
 h1 {
-  color: #E38B29;
-  font-family: Helvetica;
+  color:#05BFDB;
+  ;
+  font-family: Trebuchet MS;
 }
 
 h3 {
   color: #E38B29;
-  font-family: Helvetica;
+  font-family: Trebuchet MS;
 }
 
 .p1 {
@@ -31,3 +38,37 @@ h3 {
 .sub2 {
   font-family: Verdana;
 }
+
+a {
+  font-family: Verdana;
+}
+
+/* The code below affects the style of my skills table container */
+table, th, td {
+  border: 1px;
+  padding: 3px;
+}
+
+th, td {
+  border-bottom: 1px;
+}
+
+table {
+  width: 50%;
+  border-spacing: 10px;
+}
+
+th {
+  text-align: left;
+  color: #05BFDB;
+}
+
+.skills:hover {
+  background-color: #FFDCB6;
+}
+
+.star {
+  color: #05BFDB ;
+}
+
+
