@@ -1,0 +1,98 @@
+body{
+  background-color: #F7ECDE;
+  margin: 20px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 50%;
+  }
+
+.contact_hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+
+img {
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Text styling and allignments */
+h1 {
+  color:#05BFDB;
+  ;
+  font-family: Trebuchet MS;
+}
+
+h3 {
+  color: #E38B29;
+  font-family: Trebuchet MS;
+}
+
+.p1 {
+  font-family: Verdana;
+}
+
+p {
+  font-family: Trebuchet MS;
+}
+
+.sub1 {
+  font-family: Verdana;
+}
+
+.sub2 {
+  font-family: Verdana;
+}
+
+a {
+  font-family: Verdana;
+}
+
+form {
+  font-family: Verdana;
+}
+
+ul {
+  font-family: Verdana;
+}
+
+/* The code below affects the style of my skills table container */
+table, th, td {
+  border: 1px;
+  padding: 3px;
+}
+
+th, td {
+  border-bottom: 1px;
+  font-family: Verdana;
+}
+
+table {
+  width: 50%;
+  border-spacing: 10px;
+}
+
+th {
+  text-align: left;
+  color: #05BFDB;
+  font-family: Verdana;
+}
+
+.skills:hover {
+  background-color: #FFDCB6;
+}
+
+.star {
+  color: #05BFDB ;
+}
+
+
